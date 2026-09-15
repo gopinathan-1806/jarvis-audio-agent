@@ -465,3 +465,6 @@ The project demonstrates practical concepts including **event-driven automation,
 **Build → Understand → Test → Learn → Improve → Integrate**
 
 <img width="1212" height="432" alt="Screenshot 2026-09-15 at 3 13 38 PM" src="https://github.com/user-attachments/assets/4c485db9-1870-49b8-81a7-5a61e2c3e4f6" />
+
+<img width="1481" height="807" alt="image" src="https://github.com/user-attachments/assets/55ed725d-357c-4529-b927-0559d6add0e1" />
+
